@@ -476,7 +476,104 @@ var music = [
   {
     "url": "",
     "lyrics": "",
-    "songName": "",
+    "songName": "孤单北半球 - 欧得洋
+",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "过火 - 张信哲",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "河流 - 汪峰",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "黑板情书 - 后弦",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "黑框眼镜 - 曾沛慈",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "黑色翅膀 - 何润东",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "黑色柳丁 - 田馥甄",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "狠心拆穿 - 夏婉安",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "厚颜无耻 - 曲肖冰",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "灰色头像 - 许嵩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "会不会 - 本兮",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "魂 - 小凌",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "剑魂 - 汪苏泷",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "剑心 - 张杰",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "哭笑不得 - 阿悄",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "酷爱 - 张敬轩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "胧月 - 初音ミク",
     "singer": ""
   },
   {
@@ -485,10 +582,13 @@ var music = [
     "songName": "",
     "singer": ""
   },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "",
-    "singer": ""
-  },
+
+
+
+
+
+
+
+
+  
 ]
