@@ -244,5 +244,173 @@ var music = [
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/Courage%20-%20%E6%88%B8%E6%9D%BE%E9%81%A5.lrc",
     "songName": "Courage",
     "singer": "戸松遥"
-  }
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Crossing field (交叉领域) - LiSA (织部里沙)",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Kiss Me - SING女团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Kong - 侧田",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Sakura (樱花) - 生物股长(いきものがかり)",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Treasure - Bruno",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Young For You - GALA",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "カワキヲアメク (声嘶力竭) - 美波 (みなみ)",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "爱要撑下去 - 吴若希",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "半个人 - 汪东城",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "笔记 - 周笔畅",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "不分手的恋爱 - 汪苏泷",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "不只爱情 - 区文诗",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "此生不换 - 青鸟飞鱼",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "错爱 - 庄心妍",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "大哥 - 卫兰",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "帝都 - 萌萌哒天团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "独寂 - 刘诺婕&宋马超",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "独家记忆 - 陈小春",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "独角戏 - 许茹芸",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "断点 - 张敬轩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "断桥残雪 - 许嵩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "多幸运 - 韩安旭",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "放不下 - 夏婉安&阳逸晨",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "放开 - 爱乐团王超",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "粉笔和涂鸦 - 曾沛慈",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "王者归来 - 曾沛慈",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "悬溺 - 葛东琪",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "预谋 - 许佳慧",
+    "singer": ""
+  } 
 ]
