@@ -412,5 +412,83 @@ var music = [
     "lyrics": "",
     "songName": "预谋 - 许佳慧",
     "singer": ""
-  } 
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "Lydia - F.I.R.飞儿乐团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "边做边爱 - 陈旭",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "凡尘 - 崔子格&徐良",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "发誓 - 钟嘉欣",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "创作者 - 本兮&徐良",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "繁星 - SING女团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "非主恋 - 童可可&田跃君3",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "高手 - 胡歌",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "哥只是个传说 - 陈旭",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "够钟 - 周柏豪",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "",
+    "singer": ""
+  },
 ]
