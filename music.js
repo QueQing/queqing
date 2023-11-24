@@ -579,16 +579,308 @@ var music = [
   {
     "url": "",
     "lyrics": "",
-    "songName": "",
+    "songName": "埋葬冬天 - 汪苏泷&阿悄",
     "singer": ""
   },
-
-
-
-
-
-
-
-
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "玫瑰花的葬礼 - 许嵩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "美人鱼 - 萌萌哒天团&卢小娟",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "面具 - 许廷铿",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "秒杀 - 杨竣杰",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "明明 - 钟一宪",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "明天，你好 - 牛奶咖啡",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "明知做戏 - 吴雨霏",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "闹够了没有 - 赖伟锋",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "你的微笑 - F.I.R.飞儿乐团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "你瞒我瞒 - 陈柏宇",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "你在看孤独的风景 - 本兮&单小源",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "逆流成河 - 金南玲",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "年轮 - 张碧晨",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "年轮 - 汪苏泷",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "虐心 - 徐良&孙羽幽",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "扑火 - 陈小春",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "七友 - 梁汉文",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "其实都没有 - 杨宗纬",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "其实我不快乐 - 钟嘉欣",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "奇怪，我不懂得爱 - 本兮&黄伟",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "启示录 - 陈旭",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "千年之恋 - F.I.R.飞儿乐团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "前度 - 朱雅",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "浅海 - 单色凌&小凌",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "轻轻 - 本兮",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "情侣装 - 许嵩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "情人节的夜晚 - 本兮&小贱",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "全世界宣布爱你 - 李潇潇&孙子涵",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "缺氧 - 杨丞琳",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "如果寂寞了 - 郑晓填",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "森林 - Mr",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "神一样的对手 - 单色凌&爱朵女孩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "生生世世爱 - 吴雨霏",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "失忆的金鱼 - 杨丞琳",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "是非题 - 范玮琪",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "是我一人放不下 - 威仔&孙紫涵",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "说好了不见面 - 小贱",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "死性不改 - Twins&Boy'z",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "素颜 - 许嵩&何曼婷",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "天后 - 陈势安",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "吻得太逼真 - 张敬轩",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "我们的爱 - F.I.R.飞儿乐团",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "小星星 - 汪苏泷",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "邂逅 - 徐良&杨洋",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "旋转的童话 - 杨俊杰",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "有点甜 - 汪苏泷&BY2",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "雨爱 - 杨丞琳",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "月光 - 徐良&阿悄",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "在回忆中死去 - 徐良&小暖",
+    "singer": ""
+  },
+  {
+    "url": "",
+    "lyrics": "",
+    "songName": "",
+    "singer": ""
+  }
   
 ]
