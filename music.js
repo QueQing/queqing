@@ -636,61 +636,61 @@ var music = [
     "singer": "F.I.R.飞儿乐团"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E4%BD%A0%E7%9E%92%E6%88%91%E7%9E%92%20-%20%E9%99%88%E6%9F%8F%E5%AE%87.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%BD%A0%E7%9E%92%E6%88%91%E7%9E%92%20-%20%E9%99%88%E6%9F%8F%E5%AE%87.lrc",
     "songName": "你瞒我瞒",
     "singer": "陈柏宇"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E4%BD%A0%E5%9C%A8%E7%9C%8B%E5%AD%A4%E7%8B%AC%E7%9A%84%E9%A3%8E%E6%99%AF%20-%20%E6%9C%AC%E5%85%AE&%E5%8D%95%E5%B0%8F%E6%BA%90.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%BD%A0%E5%9C%A8%E7%9C%8B%E5%AD%A4%E7%8B%AC%E7%9A%84%E9%A3%8E%E6%99%AF%20-%20%E6%9C%AC%E5%85%AE%26%E5%8D%95%E5%B0%8F%E6%BA%90.lrc",
     "songName": "你在看孤独的风景",
     "singer": "本兮&单小源"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E9%80%86%E6%B5%81%E6%88%90%E6%B2%B3%20-%20%E9%87%91%E5%8D%97%E7%8E%B2.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%80%86%E6%B5%81%E6%88%90%E6%B2%B3%20-%20%E9%87%91%E5%8D%97%E7%8E%B2.lrc",
     "songName": "逆流成河",
     "singer": "金南玲"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%B9%B4%E8%BD%AE%20-%20%E5%BC%A0%E7%A2%A7%E6%99%A8.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%B9%B4%E8%BD%AE%20-%20%E5%BC%A0%E7%A2%A7%E6%99%A8.lrc",
     "songName": "年轮",
     "singer": "张碧晨"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%B9%B4%E8%BD%AE%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%B9%B4%E8%BD%AE%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7.lrc",
     "songName": "年轮",
     "singer": "汪苏泷"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E8%99%90%E5%BF%83%20-%20%E5%BE%90%E8%89%AF&%E5%AD%99%E7%BE%BD%E5%B9%BD.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E8%99%90%E5%BF%83%20-%20%E5%BE%90%E8%89%AF%26%E5%AD%99%E7%BE%BD%E5%B9%BD.lrc",
     "songName": "虐心",
     "singer": "徐良&孙羽幽"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%89%91%E7%81%AB%20-%20%E9%99%88%E5%B0%8F%E6%98%A5.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%89%91%E7%81%AB%20-%20%E9%99%88%E5%B0%8F%E6%98%A5.lrc",
     "songName": "扑火",
     "singer": "陈小春"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E4%B8%83%E5%8F%8B%20-%20%E6%A2%81%E6%B1%89%E6%96%87.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%B8%83%E5%8F%8B%20-%20%E6%A2%81%E6%B1%89%E6%96%87.lrc",
     "songName": "七友",
     "singer": "梁汉文"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%85%B6%E5%AE%9E%E9%83%BD%E6%B2%A1%E6%9C%89%20-%20%E6%9D%A8%E5%AE%97%E7%BA%AC.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%85%B6%E5%AE%9E%E9%83%BD%E6%B2%A1%E6%9C%89%20-%20%E6%9D%A8%E5%AE%97%E7%BA%AC.lrc",
     "songName": "其实都没有",
     "singer": "杨宗纬"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%85%B6%E5%AE%9E%E6%88%91%E4%B8%8D%E5%BF%AB%E4%B9%90%20-%20%E9%92%9F%E5%98%89%E6%AC%A3.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%85%B6%E5%AE%9E%E6%88%91%E4%B8%8D%E5%BF%AB%E4%B9%90%20-%20%E9%92%9F%E5%98%89%E6%AC%A3.lrc",
     "songName": "其实我不快乐",
     "singer": "钟嘉欣"
