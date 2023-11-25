@@ -696,181 +696,181 @@ var music = [
     "singer": "钟嘉欣"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%A5%87%E6%80%AA%EF%BC%8C%E6%88%91%E4%B8%8D%E6%87%82%E5%BE%97%E7%88%B1%20-%20%E6%9C%AC%E5%85%AE&%E9%BB%84%E4%BC%9F.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%A5%87%E6%80%AA%EF%BC%8C%E6%88%91%E4%B8%8D%E6%87%82%E5%BE%97%E7%88%B1%20-%20%E6%9C%AC%E5%85%AE%26%E9%BB%84%E4%BC%9F.lrc",
     "songName": "奇怪，我不懂得爱",
     "singer": "本兮&黄伟"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%90%AF%E7%A4%BA%E5%BD%95%20-%20%E9%99%88%E6%97%AD.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%90%AF%E7%A4%BA%E5%BD%95%20-%20%E9%99%88%E6%97%AD.lrc",
     "songName": "启示录",
     "singer": "陈旭"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B%20-%20F.I.R.%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B%20-%20F.I.R.%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2.lrc",
     "songName": "千年之恋",
     "singer": "F.I.R.飞儿乐团"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%89%8D%E5%BA%A6%20-%20%E6%9C%B1%E9%9B%85.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%89%8D%E5%BA%A6%20-%20%E6%9C%B1%E9%9B%85.lrc",
     "songName": "前度",
     "singer": "朱雅"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%B5%85%E6%B5%B7%20-%20%E5%8D%95%E8%89%B2%E5%87%8C&%E5%B0%8F%E5%87%8C.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%B5%85%E6%B5%B7%20-%20%E5%8D%95%E8%89%B2%E5%87%8C%26%E5%B0%8F%E5%87%8C.lrc",
     "songName": "浅海",
     "singer": "单色凌&小凌"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E8%BD%BB%E8%BD%BB%20-%20%E6%9C%AC%E5%85%AE.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E8%BD%BB%E8%BD%BB%20-%20%E6%9C%AC%E5%85%AE.lrc",
     "songName": "轻轻",
     "singer": "本兮"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%83%85%E4%BE%A3%E8%A3%85%20-%20%E8%AE%B8%E5%B5%A9.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%83%85%E4%BE%A3%E8%A3%85%20-%20%E8%AE%B8%E5%B5%A9.lrc",
     "songName": "情侣装",
     "singer": "许嵩"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%83%85%E4%BA%BA%E8%8A%82%E7%9A%84%E5%A4%9C%E6%99%9A%20-%20%E6%9C%AC%E5%85%AE&%E5%B0%8F%E8%B4%B1.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%83%85%E4%BA%BA%E8%8A%82%E7%9A%84%E5%A4%9C%E6%99%9A%20-%20%E6%9C%AC%E5%85%AE%26%E5%B0%8F%E8%B4%B1.lrc",
     "songName": "情人节的夜晚",
     "singer": "本兮&小贱"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%85%A8%E4%B8%96%E7%95%8C%E5%AE%A3%E5%B8%83%E7%88%B1%E4%BD%A0%20-%20%E6%9D%8E%E6%BD%87%E6%BD%87&%E5%AD%99%E5%AD%90%E6%B6%B5.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%85%A8%E4%B8%96%E7%95%8C%E5%AE%A3%E5%B8%83%E7%88%B1%E4%BD%A0%20-%20%E6%9D%8E%E6%BD%87%E6%BD%87%26%E5%AD%99%E5%AD%90%E6%B6%B5.lrc",
     "songName": "全世界宣布爱你",
     "singer": "李潇潇&孙子涵"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E7%BC%BA%E6%B0%A7%20-%20%E6%9D%A8%E4%B8%9E%E7%90%B3.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%BC%BA%E6%B0%A7%20-%20%E6%9D%A8%E4%B8%9E%E7%90%B3.lrc",
     "songName": "缺氧",
     "singer": "杨丞琳"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%A6%82%E6%9E%9C%E5%AF%82%E5%AF%9E%E4%BA%86%20-%20%E9%83%91%E6%99%93%E5%A1%AB.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%A6%82%E6%9E%9C%E5%AF%82%E5%AF%9E%E4%BA%86%20-%20%E9%83%91%E6%99%93%E5%A1%AB.lrc",
     "songName": "如果寂寞了",
     "singer": "郑晓填"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%A3%AE%E6%9E%97%20-%20Mr.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%A3%AE%E6%9E%97%20-%20Mr.lrc",
     "songName": "森林",
     "singer": "Mr."
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E7%A5%9E%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AF%B9%E6%89%8B%20-%20%E5%8D%95%E8%89%B2%E5%87%8C&%E7%88%B1%E6%9C%B5%E5%A5%B3%E5%AD%A9.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%A5%9E%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AF%B9%E6%89%8B%20-%20%E5%8D%95%E8%89%B2%E5%87%8C%26%E7%88%B1%E6%9C%B5%E5%A5%B3%E5%AD%A9.lrc",
     "songName": "神一样的对手",
     "singer": "单色凌&爱朵女孩"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E7%94%9F%E7%94%9F%E4%B8%96%E4%B8%96%E7%88%B1%20-%20%E5%90%B4%E9%9B%A8%E9%9C%8F.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%94%9F%E7%94%9F%E4%B8%96%E4%B8%96%E7%88%B1%20-%20%E5%90%B4%E9%9B%A8%E9%9C%8F.lrc",
     "songName": "生生世世爱",
     "singer": "吴雨霏"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%A4%B1%E5%BF%86%E7%9A%84%E9%87%91%E9%B1%BC%20-%20%E6%9D%A8%E4%B8%9E%E7%90%B3.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%A4%B1%E5%BF%86%E7%9A%84%E9%87%91%E9%B1%BC%20-%20%E6%9D%A8%E4%B8%9E%E7%90%B3.lrc",
     "songName": "失忆的金鱼",
     "singer": "杨丞琳"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%98%AF%E9%9D%9E%E9%A2%98%20-%20%E8%8C%83%E7%8E%AE%E7%90%AA.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%98%AF%E9%9D%9E%E9%A2%98%20-%20%E8%8C%83%E7%8E%AE%E7%90%AA.lrc",
     "songName": "是非题",
     "singer": "范玮琪"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%98%AF%E6%88%91%E4%B8%80%E4%BA%BA%E6%94%BE%E4%B8%8D%E4%B8%8B%20-%20%E5%A8%81%E4%BB%94&%E5%AD%99%E7%B4%AB%E6%B6%B5.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%98%AF%E6%88%91%E4%B8%80%E4%BA%BA%E6%94%BE%E4%B8%8D%E4%B8%8B%20-%20%E5%A8%81%E4%BB%94%26%E5%AD%99%E7%B4%AB%E6%B6%B5.lrc",
     "songName": "是我一人放不下",
     "singer": "威仔&孙紫涵"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E8%AF%B4%E5%A5%BD%E4%BA%86%E4%B8%8D%E8%A7%81%E9%9D%A2%20-%20%E5%B0%8F%E8%B4%B1.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E8%AF%B4%E5%A5%BD%E4%BA%86%E4%B8%8D%E8%A7%81%E9%9D%A2%20-%20%E5%B0%8F%E8%B4%B1.lrc",
     "songName": "说好了不见面",
     "singer": "小贱"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%AD%BB%E6%80%A7%E4%B8%8D%E6%94%B9%20-%20Twins&Boy'z.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%AD%BB%E6%80%A7%E4%B8%8D%E6%94%B9%20-%20Twins%26Boy'z.lrc",
     "songName": "死性不改",
     "singer": "Twins&Boy'z"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E7%B4%A0%E9%A2%9C%20-%20%E8%AE%B8%E5%B5%A9&%E4%BD%95%E6%9B%BC%E5%A9%B7.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%B4%A0%E9%A2%9C%20-%20%E8%AE%B8%E5%B5%A9%26%E4%BD%95%E6%9B%BC%E5%A9%B7.lrc",
     "songName": "素颜",
     "singer": "许嵩&何曼婷"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%A4%A9%E5%90%8E%20-%20%E9%99%88%E5%8A%BF%E5%AE%89.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%A4%A9%E5%90%8E%20-%20%E9%99%88%E5%8A%BF%E5%AE%89.lrc",
     "songName": "天后",
     "singer": "陈势安"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%90%BB%E5%BE%97%E5%A4%AA%E9%80%BC%E7%9C%9F%20-%20%E5%BC%A0%E6%95%AC%E8%BD%A9.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%90%BB%E5%BE%97%E5%A4%AA%E9%80%BC%E7%9C%9F%20-%20%E5%BC%A0%E6%95%AC%E8%BD%A9.lrc",
     "songName": "吻得太逼真",
     "singer": "张敬轩"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1%20-%20F.I.R.%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1%20-%20F.I.R.%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2.lrc",
     "songName": "我们的爱",
     "singer": "F.I.R.飞儿乐团"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E5%B0%8F%E6%98%9F%E6%98%9F%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%B0%8F%E6%98%9F%E6%98%9F%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7.lrc",
     "songName": "小星星",
     "singer": "汪苏泷"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E9%82%82%E9%80%85%20-%20%E5%BE%90%E8%89%AF&%E6%9D%A8%E6%B4%8B.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%82%82%E9%80%85%20-%20%E5%BE%90%E8%89%AF%26%E6%9D%A8%E6%B4%8B.lrc",
     "songName": "邂逅",
     "singer": "徐良&杨洋"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%97%8B%E8%BD%AC%E7%9A%84%E7%AB%A5%E8%AF%9D%20-%20%E6%9D%A8%E4%BF%8A%E6%9D%B0.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%97%8B%E8%BD%AC%E7%9A%84%E7%AB%A5%E8%AF%9D%20-%20%E6%9D%A8%E4%BF%8A%E6%9D%B0.lrc",
     "songName": "旋转的童话",
     "singer": "杨俊杰"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%9C%89%E7%82%B9%E7%94%9C%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7&BY2.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%9C%89%E7%82%B9%E7%94%9C%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7%26BY2.lrc",
     "songName": "有点甜",
     "singer": "汪苏泷&BY2"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E9%9B%A8%E7%88%B1%20-%20%E6%9D%A8%E4%B8%9E%E7%90%B3.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%9B%A8%E7%88%B1%20-%20%E6%9D%A8%E4%B8%9E%E7%90%B3.lrc",
     "songName": "雨爱",
     "singer": "杨丞琳"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%9C%88%E5%85%89%20-%20%E5%BE%90%E8%89%AF&%E9%98%BF%E6%82%84.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%9C%88%E5%85%89%20-%20%E5%BE%90%E8%89%AF%26%E9%98%BF%E6%82%84.lrc",
     "songName": "月光",
     "singer": "徐良&阿悄"
   },
   {
-    "url": "",
+    "url": "https://github.com/QueQing/queqing/raw/main/Music/song/%E6%9C%88%E5%85%89%20-%20%E5%BE%90%E8%89%AF&%E9%98%BF%E6%82%84.mp3",
     "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%9C%A8%E5%9B%9E%E5%BF%86%E4%B8%AD%E6%AD%BB%E5%8E%BB%20-%20%E5%BE%90%E8%89%AF%26%E5%B0%8F%E6%9A%96.lrc",
     "songName": "在回忆中死去",
     "singer": "徐良&小暖"
