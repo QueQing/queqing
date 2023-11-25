@@ -469,412 +469,412 @@ var music = [
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "够钟 - 周柏豪",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%A4%9F%E9%92%9F%20-%20%E5%91%A8%E6%9F%8F%E8%B1%AA.lrc",
+    "songName": "够钟",
+    "singer": "周柏豪"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "孤单北半球 - 欧得洋
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%AD%A4%E5%8D%95%E5%8C%97%E5%8D%8A%E7%90%83%20-%20%E6%AC%A7%E5%BE%97%E6%B4%8B.lrc",
+    "songName": "孤单北半球",
+    "singer": "欧得洋"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E8%BF%87%E7%81%AB%20-%20%E5%BC%A0%E4%BF%A1%E5%93%B2.lrc",
+    "songName": "过火",
+    "singer": "张信哲"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%B2%B3%E6%B5%81%20-%20%E6%B1%AA%E5%B3%B0.lrc",
+    "songName": "河流",
+    "singer": "汪峰"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%BB%91%E6%9D%BF%E6%83%85%E4%B9%A6%20-%20%E5%90%8E%E5%BC%A6.lrc",
+    "songName": "黑板情书",
+    "singer": "后弦"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%BB%91%E6%A1%86%E7%9C%BC%E9%95%9C%20-%20%E6%9B%BE%E6%B2%9B%E6%85%88.lrc",
+    "songName": "黑框眼镜",
+    "singer": "曾沛慈"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%BB%91%E8%89%B2%E7%BF%85%E8%86%80%20-%20%E4%BD%95%E6%B6%A6%E4%B8%9C.lrc",
+    "songName": "黑色翅膀",
+    "singer": "何润东"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81%20-%20%E7%94%B0%E9%A6%A5%E7%94%84.lrc",
+    "songName": "黑色柳丁",
+    "singer": "田馥甄"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%8B%A0%E5%BF%83%E6%8B%86%E7%A9%BF%20-%20%E5%A4%8F%E5%A9%89%E5%AE%89.lrc",
+    "songName": "狠心拆穿",
+    "singer": "夏婉安"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%8E%9A%E9%A2%9C%E6%97%A0%E8%80%BB%20-%20%E6%9B%B2%E8%82%96%E5%86%B0.lrc",
+    "songName": "厚颜无耻",
+    "singer": "曲肖冰"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%81%B0%E8%89%B2%E5%A4%B4%E5%83%8F%20-%20%E8%AE%B8%E5%B5%A9.lrc",
+    "songName": "灰色头像",
+    "singer": "许嵩"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%BC%9A%E4%B8%8D%E4%BC%9A%20-%20%E6%9C%AC%E5%85%AE.lrc",
+    "songName": "会不会",
+    "singer": "本兮"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%AD%82%20-%20%E5%B0%8F%E5%87%8C.lrc",
+    "songName": "魂",
+    "singer": "小凌"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%89%91%E9%AD%82%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7.lrc",
+    "songName": "剑魂",
+    "singer": "汪苏泷"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%89%91%E5%BF%83%20-%20%E5%BC%A0%E6%9D%B0.lrc",
+    "songName": "剑心",
+    "singer": "张杰"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%93%AD%E7%AC%91%E4%B8%8D%E5%BE%97%20-%20%E9%98%BF%E6%82%84.lrc",
+    "songName": "哭笑不得",
+    "singer": "阿悄"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%85%B7%E7%88%B1%20-%20%E5%BC%A0%E6%95%AC%E8%BD%A9.lrc",
+    "songName": "酷爱",
+    "singer": "张敬轩"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E8%83%A7%E6%9C%88%20-%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF.lrc",
+    "songName": "胧月",
+    "singer": "初音ミク"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%9F%8B%E8%91%AC%E5%86%AC%E5%A4%A9%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7%26%E9%98%BF%E6%82%84.lrc",
+    "songName": "埋葬冬天",
+    "singer": "汪苏泷&阿悄"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC%20-%20%E8%AE%B8%E5%B5%A9.lrc",
+    "songName": "玫瑰花的葬礼",
+    "singer": "许嵩"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%BE%8E%E4%BA%BA%E9%B1%BC%20-%20%E8%90%8C%E8%90%8C%E5%93%92%E5%A4%A9%E5%9B%A2%26%E5%8D%A2%E5%B0%8F%E5%A8%9F.lrc",
+    "songName": "美人鱼",
+    "singer": "萌萌哒天团&卢小娟"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%9D%A2%E5%85%B7%20-%20%E8%AE%B8%E5%BB%B7%E9%93%BF.lrc",
+    "songName": "面具",
+    "singer": "许廷铿"
+  },
+  {
+    "url": "",
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E7%A7%92%E6%9D%80%20-%20%E6%9D%A8%E7%AB%A3%E6%9D%B0.lrc
 ",
-    "singer": ""
+    "songName": "秒杀",
+    "singer": "杨竣杰"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "过火 - 张信哲",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "河流 - 汪峰",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "黑板情书 - 后弦",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "黑框眼镜 - 曾沛慈",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "黑色翅膀 - 何润东",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "黑色柳丁 - 田馥甄",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "狠心拆穿 - 夏婉安",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "厚颜无耻 - 曲肖冰",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "灰色头像 - 许嵩",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "会不会 - 本兮",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "魂 - 小凌",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "剑魂 - 汪苏泷",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "剑心 - 张杰",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%98%8E%E6%98%8E%20-%20%E9%92%9F%E4%B8%80%E5%AE%AA.lrc",
+    "songName": "明明",
+    "singer": "钟一宪"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "哭笑不得 - 阿悄",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "酷爱 - 张敬轩",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "胧月 - 初音ミク",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "埋葬冬天 - 汪苏泷&阿悄",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "玫瑰花的葬礼 - 许嵩",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "美人鱼 - 萌萌哒天团&卢小娟",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "面具 - 许廷铿",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%98%8E%E5%A4%A9%EF%BC%8C%E4%BD%A0%E5%A5%BD%20-%20%E7%89%9B%E5%A5%B6%E5%92%96%E5%95%A1.lrc",
+    "songName": "明天，你好",
+    "singer": "牛奶咖啡"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "秒杀 - 杨竣杰",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "明明 - 钟一宪",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "明天，你好 - 牛奶咖啡",
-    "singer": ""
-  },
-  {
-    "url": "",
-    "lyrics": "",
-    "songName": "明知做戏 - 吴雨霏",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%98%8E%E7%9F%A5%E5%81%9A%E6%88%8F%20-%20%E5%90%B4%E9%9B%A8%E9%9C%8F.lrc",
+    "songName": "明知做戏",
+    "singer": "吴雨霏"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "闹够了没有 - 赖伟锋",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%97%B9%E5%A4%9F%E4%BA%86%E6%B2%A1%E6%9C%89%20-%20%E8%B5%96%E4%BC%9F%E9%94%8B.lrc",
+    "songName": "闹够了没有",
+    "singer": "赖伟锋"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "你的微笑 - F.I.R.飞儿乐团",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%BD%A0%E7%9A%84%E5%BE%AE%E7%AC%91%20-%20F.I.R.%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2.lrc",
+    "songName": "你的微笑",
+    "singer": "F.I.R.飞儿乐团"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "你瞒我瞒 - 陈柏宇",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%BD%A0%E7%9E%92%E6%88%91%E7%9E%92%20-%20%E9%99%88%E6%9F%8F%E5%AE%87.lrc",
+    "songName": "你瞒我瞒",
+    "singer": "陈柏宇"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "你在看孤独的风景 - 本兮&单小源",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%BD%A0%E5%9C%A8%E7%9C%8B%E5%AD%A4%E7%8B%AC%E7%9A%84%E9%A3%8E%E6%99%AF%20-%20%E6%9C%AC%E5%85%AE%26%E5%8D%95%E5%B0%8F%E6%BA%90.lrc",
+    "songName": "你在看孤独的风景",
+    "singer": "本兮&单小源"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "逆流成河 - 金南玲",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E9%80%86%E6%B5%81%E6%88%90%E6%B2%B3%20-%20%E9%87%91%E5%8D%97%E7%8E%B2.lrc",
+    "songName": "逆流成河",
+    "singer": "金南玲"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "年轮 - 张碧晨",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%B9%B4%E8%BD%AE%20-%20%E5%BC%A0%E7%A2%A7%E6%99%A8.lrc",
+    "songName": "年轮",
+    "singer": "张碧晨"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "年轮 - 汪苏泷",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%B9%B4%E8%BD%AE%20-%20%E6%B1%AA%E8%8B%8F%E6%B3%B7.lrc",
+    "songName": "年轮",
+    "singer": "汪苏泷"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "虐心 - 徐良&孙羽幽",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E8%99%90%E5%BF%83%20-%20%E5%BE%90%E8%89%AF%26%E5%AD%99%E7%BE%BD%E5%B9%BD.lrc",
+    "songName": "虐心",
+    "singer": "徐良&孙羽幽"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "扑火 - 陈小春",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E6%89%91%E7%81%AB%20-%20%E9%99%88%E5%B0%8F%E6%98%A5.lrc",
+    "songName": "扑火",
+    "singer": "陈小春"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "七友 - 梁汉文",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E4%B8%83%E5%8F%8B%20-%20%E6%A2%81%E6%B1%89%E6%96%87.lrc",
+    "songName": "七友",
+    "singer": "梁汉文"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "其实都没有 - 杨宗纬",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%85%B6%E5%AE%9E%E9%83%BD%E6%B2%A1%E6%9C%89%20-%20%E6%9D%A8%E5%AE%97%E7%BA%AC.lrc",
+    "songName": "其实都没有",
+    "singer": "杨宗纬"
   },
   {
     "url": "",
-    "lyrics": "",
-    "songName": "其实我不快乐 - 钟嘉欣",
-    "singer": ""
+    "lyrics": "https://raw.githubusercontent.com/QueQing/queqing/main/Music/lyrics/%E5%85%B6%E5%AE%9E%E6%88%91%E4%B8%8D%E5%BF%AB%E4%B9%90%20-%20%E9%92%9F%E5%98%89%E6%AC%A3.lrc",
+    "songName": "其实我不快乐",
+    "singer": "钟嘉欣"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "奇怪，我不懂得爱 - 本兮&黄伟",
-    "singer": ""
+    "songName": "奇怪，我不懂得爱",
+    "singer": "本兮&黄伟"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "启示录 - 陈旭",
-    "singer": ""
+    "songName": "启示录",
+    "singer": "陈旭"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "千年之恋 - F.I.R.飞儿乐团",
-    "singer": ""
+    "songName": "千年之恋",
+    "singer": "F.I.R.飞儿乐团"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "前度 - 朱雅",
-    "singer": ""
+    "songName": "前度",
+    "singer": "朱雅"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "浅海 - 单色凌&小凌",
-    "singer": ""
+    "songName": "浅海",
+    "singer": "单色凌&小凌"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "轻轻 - 本兮",
-    "singer": ""
+    "songName": "轻轻",
+    "singer": "本兮"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "情侣装 - 许嵩",
-    "singer": ""
+    "songName": "情侣装",
+    "singer": "许嵩"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "情人节的夜晚 - 本兮&小贱",
-    "singer": ""
+    "songName": "情人节的夜晚",
+    "singer": "本兮&小贱"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "全世界宣布爱你 - 李潇潇&孙子涵",
-    "singer": ""
+    "songName": "全世界宣布爱你",
+    "singer": "李潇潇&孙子涵"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "缺氧 - 杨丞琳",
-    "singer": ""
+    "songName": "缺氧",
+    "singer": "杨丞琳"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "如果寂寞了 - 郑晓填",
-    "singer": ""
+    "songName": "如果寂寞了",
+    "singer": "郑晓填"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "森林 - Mr",
-    "singer": ""
+    "songName": "森林",
+    "singer": "Mr."
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "神一样的对手 - 单色凌&爱朵女孩",
-    "singer": ""
+    "songName": "神一样的对手",
+    "singer": "单色凌&爱朵女孩"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "生生世世爱 - 吴雨霏",
-    "singer": ""
+    "songName": "生生世世爱",
+    "singer": "吴雨霏"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "失忆的金鱼 - 杨丞琳",
-    "singer": ""
+    "songName": "失忆的金鱼",
+    "singer": "杨丞琳"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "是非题 - 范玮琪",
-    "singer": ""
+    "songName": "是非题",
+    "singer": "范玮琪"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "是我一人放不下 - 威仔&孙紫涵",
-    "singer": ""
+    "songName": "是我一人放不下",
+    "singer": "威仔&孙紫涵"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "说好了不见面 - 小贱",
-    "singer": ""
+    "songName": "说好了不见面",
+    "singer": "小贱"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "死性不改 - Twins&Boy'z",
-    "singer": ""
+    "songName": "死性不改",
+    "singer": "Twins&Boy'z"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "素颜 - 许嵩&何曼婷",
-    "singer": ""
+    "songName": "素颜",
+    "singer": "许嵩&何曼婷"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "天后 - 陈势安",
-    "singer": ""
+    "songName": "天后",
+    "singer": "陈势安"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "吻得太逼真 - 张敬轩",
-    "singer": ""
+    "songName": "吻得太逼真",
+    "singer": "张敬轩"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "我们的爱 - F.I.R.飞儿乐团",
-    "singer": ""
+    "songName": "我们的爱",
+    "singer": "F.I.R.飞儿乐团"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "小星星 - 汪苏泷",
-    "singer": ""
+    "songName": "小星星",
+    "singer": "汪苏泷"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "邂逅 - 徐良&杨洋",
-    "singer": ""
+    "songName": "邂逅",
+    "singer": "徐良&杨洋"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "旋转的童话 - 杨俊杰",
-    "singer": ""
+    "songName": "旋转的童话",
+    "singer": "杨俊杰"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "有点甜 - 汪苏泷&BY2",
-    "singer": ""
+    "songName": "有点甜",
+    "singer": "汪苏泷&BY2"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "雨爱 - 杨丞琳",
-    "singer": ""
+    "songName": "雨爱",
+    "singer": "杨丞琳"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "月光 - 徐良&阿悄",
-    "singer": ""
+    "songName": "月光",
+    "singer": "徐良&阿悄"
   },
   {
     "url": "",
     "lyrics": "",
-    "songName": "在回忆中死去 - 徐良&小暖",
-    "singer": ""
+    "songName": "在回忆中死去",
+    "singer": "徐良&小暖"
   },
   {
     "url": "",
